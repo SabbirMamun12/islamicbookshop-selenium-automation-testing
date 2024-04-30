@@ -41,7 +41,7 @@ The project's Maven dependencies are listed in the [pom.xml](./pom.xml) file.
 ## How to Run
 
 1. Ensure you have the necessary tools and dependencies installed.
-2. Clone the repository: `git clone https://github.com/SabbirMamun12/selenium-web-automation-testing.git`
+2. Clone the repository: `git clone https://github.com/SabbirMamun12/islamicbookshop-selenium-automation-testing.git`
 3. Open the project in an IDE (Intellij, Eclipse etc.)
 4. Add dependency if needed.
 5. Run the tests
